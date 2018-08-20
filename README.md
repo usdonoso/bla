@@ -1,2 +1,2 @@
 # Prueba1
-Aprender a usar girhub
+Aprender a usar github
